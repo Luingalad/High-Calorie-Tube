@@ -1,0 +1,29 @@
+Giderilen Hatalar:
+- Yükleme ekraninda gözüken reklam kapatildi. Artik ana menü açildiginda gözükecek.
+
+Iyilestirmeler:
+	Oyun içi:
+	- Oyun içinde karakterin mevcut kalorisini gösteren yazi daha görünür yapildi.
+	- Oyunda ilerledikten sonra devreye giren uçma animasyonuna yardimci efekt eklendi.
+
+	UI:
+	- Biftek Dükkanindaki onay menüsünün görseli düzenlendi.
+
+Yenilikler:
+- Engellere çarpmak artik biftek de kazandirabiliyor. 
+- Artik engellerden bazilari çok zor bazilari ise çok kolay.
+
+Bug Fixes:
+- The banner that appears on the download screen has been closed. It will now appear when the main menu is opened.
+
+Improvements:
+In the game:
+	- The text showing the current calorie of the character in the game was made more visible.
+	- Auxiliary effect added to the flying animation.
+
+Interface:
+	- The confirmation menu in the Steak Shop has been edited.
+
+Innovations:
+- Hitting obstacles can now earn steaks.
+- Now some of the obstacles are very difficult and some are very easy.
