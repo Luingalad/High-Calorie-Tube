@@ -7,6 +7,7 @@ using UnityEngine;
 
 public class GPG_Controller : MonoBehaviour
 {
+
     #region Singleton
     public static GPG_Controller instance;
     private void Awake()
@@ -22,7 +23,7 @@ public class GPG_Controller : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
     #endregion Singleton
-
+    
     public static PlayGamesPlatform playGames;
     
     void Start()
@@ -547,4 +548,5 @@ public class GPG_Controller : MonoBehaviour
     {
         Debug.Log(msg + ": " + success);
     }
+    
 }
